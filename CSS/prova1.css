@@ -1,0 +1,92 @@
+
+
+
+body {
+	  margin: 0px;
+      font: 13px/20px "Open Sans", Arial, sans-serif;
+	}
+    
+
+
+    
+    div#logo h1 {
+        background-image: url(../img/logo.png);
+        background-repeat: no-repeat;
+        background-position: center left;
+        background-color: #000000;
+        height: 100px;
+        vertical-align: middle;
+        padding-left: 100px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        line-height: 100px;
+        color: #ffffff;
+        display: block;
+    }
+    
+    
+    
+    #logo{
+        text-align: center;
+    }
+    
+    #logo b{
+      text-align: justify;
+      font-size: small;
+    }
+    
+div#logo h1 {
+        background-repeat: no-repeat;
+        background-position: center left;
+        vertical-align: middle;
+        line-height: 50px;
+        padding-left: 10px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        color: #ffffff;
+        display: block;
+    }
+    
+    
+    
+ #header, #footer{
+        height: 100px;
+        position: relative;
+        padding-left: 20px;
+        padding-right: 20px;
+        width: 900px;
+        left: -20px;
+        border-bottom: 10px solid gray;
+        box-shadow: 0 0 10px rgba(0,0,0,.2);
+
+    }
+    
+    #header{
+        clear: both;
+    }
+    
+    
+    #content {
+        margin-left: 200px;
+        margin-right: 5px;
+        padding-bottom: 10px;
+    }
+    
+      #sidebar1 {
+        float: left;
+        width: 19%;
+        padding-left: 1%;
+
+    }
+    
+    #sidebar2 {
+        background-color: #ffffff;  width: 200px;  height: 500px; float: right; margin-right: 50px;
+    }
+    
+      #content {
+        margin-left: 21%;
+        margin-right: 21%;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        min-height: 300px;
+    }
