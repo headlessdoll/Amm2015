@@ -1,0 +1,33 @@
+Il sito di occupa dell'acquisto di album musicali.
+  Ogni ordine comprende un insieme di album ed è caratterizzato da alcuni elementi quali:
+
+    Numero identificativo univoco dell'ordine
+    Data in cui l'ordine è stato prenotato
+    Prezzo totale
+    Stato dell'ordine (utilizzato per identificare gli ordini pagati o meno)
+    Richiesta di consegna a domicilio
+
+Il cliente
+
+Il cliente ha la possibilità di eseguire 4 operazioni principali:
+
+    Visualizzare e modificare il suo indirizzo o la password
+    Eseguire un nuovo ordine
+    Visualizzare l'elenco di tutti gli ordini richiesti in passato
+    
+    
+
+Sono stati soddisfatti i seguenti requisiti:
+
+Elenco di quali requisiti del progetto avete soddisfatto. Vi ricordo che i requisiti sono i seguenti:
+
+    Utilizzo di HTML e CSS
+    Utilizzo di PHP e MySQL
+    Utilizzo del pattern MVC
+    Almeno due ruoli (admin e cliente)
+   Caricamento ajax dei risultati della ricerca degli ordini da parte dell'addetto agli ordini
+
+Ruolo Cliente:
+
+    username: veronica
+    password: 12345
