@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>NewWaveLP</title>
+    <link media="screen" rel="stylesheet" type="text/css" href="CSS/prova1.css" />
+</head>
+
+<body>
+    <h1>
+    New Wave LP
+</h1>
+<h4> Tieni traccia dei tuoi LP preferiti</h4>
+
+ <div id="sidebar1">
+                <ul>
+                    <li id="categories">
+                        <h2 class="icon-title">Navigazione</h2>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="tabella_album.html">Cerca Album</a></li>
+                            <li><a href="album_ascoltati.html">Album ascoltati</a></li>
+                            <li><a href="album_ascoltare.html">Album da ascoltare</a></li>
+                        </ul>
+                    </li>
+ </div>
+ 
+  <div id="content">
+                <h2 class="icon-title" id="h-home">Pannello di Controllo</h2>
+                <p>
+                    Benvenuto, Utente. 
+                </p>
+                <p>
+                    Scegli una fra le seguenti sezioni:
+                </p>
+                <ul class="panel">
+                    <li><a href="tabella_album.html" id="pnl-album">
+                            Cerca Album
+                        </a>
+                    </li>
+                    <li><a href="album_ascoltati.html" id="pnl-ascoltati">Album Ascoltati</a></li>
+                    <li><a href="album_ascoltare.html" id="pnl-ascoltare">Album da ascoltare</a></li>
+                </ul>
+
+
+            </div>
+
+<div id="sidebar2">
+                <h2 id="help" class="icon-title">Istruzioni</h2>
+<p>
+<ol>
+    <li>
+        <strong> Cerca album.</strong> </br> Ti permette di cercare un album tra quelli presenti nell'archivio e di aggiungerlo tra quelli Ascoltati o da ascoltare. </br>
+    </li>
+    <li>
+        <strong> Album Ascoltati </strong> </br> Visualizza l'elenco degli album che hai gi&agrave ascoltato. </br>
+    </li>
+    <li>
+   <strong>Album da ascoltare.</strong> </br> Visualizza l'elenco degli album che vorresti ascoltare in futuro. </br>
+   </li>
+</p>
+
+
+
+</body>
+</html>
